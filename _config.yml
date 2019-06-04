@@ -1,8 +1,8 @@
 title: Akawnting
 description: Best Business and Accounting E-learning Experience
 
-url: crazylynxsystem.github.io/akawnting
-baseurl: ""
+url: crazylynxsystem.github.io
+baseurl: /akawnting
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
