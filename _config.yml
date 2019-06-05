@@ -2,7 +2,7 @@ title: Akawnting
 description: Best Business and Accounting E-learning Experience
 
 url: akawnting.com
-baseurl:
+baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
