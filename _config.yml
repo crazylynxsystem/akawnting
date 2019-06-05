@@ -18,11 +18,13 @@ navigation:
     url: /about
   - title: Contact
     url: /contact
+  - title: Quizzes
+    url: /quizzes
 
 social:
-  github: brianmaierjr
-  twitter: brianmaierjr
-  facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
+  github:
+  twitter: 
+  facebook: akawntingpage
+  email: akawnting.com@gmail.com
 
-google_analytics: "UA-58263416-1"
+google_analytics: ""
