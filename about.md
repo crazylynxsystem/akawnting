@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Long Haul
+title: About Akawnting
 ---
 
 <div class="post">
