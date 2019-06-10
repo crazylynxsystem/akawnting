@@ -12,6 +12,6 @@ title: Quizzes
 		<li>June 7, 2019 - FAR1 (Conceptual Framework) <a href="https://forms.gle/ES57KvHLZSzSxKh46" target="_blank"><strong>TAKE</strong></a></li>
 		<li>June 8, 2019 - AFAR1 (Partnership Accounting Theory) <a href="https://forms.gle/ttf8KJ55MPTBcMtj7" target="_blank"><strong>TAKE</strong></a></li>
 		<li>June 9, 2019 - AUD1 (RA 9298) <a href="https://forms.gle/XSZ7TQiSCm7U5Jxf9" target="_blank"><strong>TAKE</strong></a></li>
-		<li>June 10, 2019 - AUD2 (Code of Ethics) <a href="" target="_blank"><strong></strong></a></li>
+		<li>June 10, 2019 - AUD2 (Code of Ethics) <a href="https://forms.gle/vtfEyLFcgtfkBUVj8" target="_blank"><strong>TAKE</strong></a></li>
 	</ul>
 </div>
