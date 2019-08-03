@@ -1,26 +1,26 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "Akawnting"
+title: "Akawnting"
+description: "An educational website for accountants and business people."
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
 baseurl: ''
-google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+google_analytics: ''
+disqus: ''
+mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
+  akawnting:
+    name: Akawnting
+    display_name: Akawnting
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
+    email: akawnting.com@gmail.com
+    web: https://akawnting.com
     twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    description: "Akawnting is an educational endeavor which aims to help aspiring students reach their dreams. Our mission is to provide valuable enhancement to formal education by creating online contents and resources. This way, student learning is not limited to the four walls of the classroom. We, having CPA founders, initially plan to create accounting courses to show appreciation and gratitude towards the field. However, we envision to be a leader in online education which expands beyond accounting and business."
   john:
     name: John
     display_name: John    
