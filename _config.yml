@@ -7,7 +7,7 @@ favicon: 'assets/images/favicon.ico'
 baseurl: ''
 google_analytics: 'UA-141716897-1'
 disqus: 'akawnting'
-mailchimp-list: 'https://akawnting.us20.list-manage.com/subscribe/post?u=c6769ee3d0c0e4d8c8ce7b8e5&amp;id=d732be8111'
+mailchimp-list: 'https://gmail.us3.list-manage.com/subscribe/post?u=44fa985ed01f97647e92edccf&amp;id=70a1215ec9'
 include: ["_pages"]
 permalink: /:title/
 
