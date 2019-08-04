@@ -5,9 +5,9 @@ description: "An educational website for accountants and business people."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
-google_analytics: ''
-disqus: ''
-mailchimp-list: ''
+google_analytics: 'UA-141716897-1'
+disqus: 'akawnting'
+mailchimp-list: 'https://akawnting.us20.list-manage.com/subscribe/post?u=c6769ee3d0c0e4d8c8ce7b8e5&amp;id=d732be8111'
 include: ["_pages"]
 permalink: /:title/
 
