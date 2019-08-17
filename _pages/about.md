@@ -2,7 +2,7 @@
 layout: page
 title: About Us
 permalink: /about
-comments: true
+comments: false
 ---
 
 <div class="row justify-content-between">
@@ -20,9 +20,9 @@ comments: true
 <div class="sticky-top sticky-top-80">
 <h5>Support our cause</h5>
 
-<p>Thank you for your support! Your donation helps us maintain and improve <a target="_blank" href="https://akawnting.com">Akawnting.com</a>.</p>
+<p>Thank you for your support! Your purchases help us maintain and improve <a target="_blank" href="https://shop.akawnting.com">Akawnting Shop</a>.</p>
 
-<a target="_blank" href="" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+<a target="_blank" href="" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://facebook.com/akawntingpage" class="btn btn-warning">Facebook Page</a>
 
 </div>
 </div>
