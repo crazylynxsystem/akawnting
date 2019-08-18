@@ -20,9 +20,9 @@ comments: false
 <div class="sticky-top sticky-top-80">
 <h5>Support our cause</h5>
 
-<p>Thank you for your support! Your purchases help us maintain and improve <a target="_blank" href="https://shop.akawnting.com">Akawnting Shop</a>.</p>
+<p>Thank you for your support! Your purchases help us maintain and improve <a target="_blank" href="https://akawnting.com">Akawnting</a>.</p>
 
-<a target="_blank" href="" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://facebook.com/akawntingpage" class="btn btn-warning">Facebook Page</a>
+<a target="_blank" href="https://shop.akawnting.com" class="btn btn-danger">Shop</a> <a target="_blank" href="https://facebook.com/akawntingpage" class="btn btn-warning">Facebook Page</a>
 
 </div>
 </div>
