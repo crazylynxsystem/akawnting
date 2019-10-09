@@ -5,9 +5,47 @@
     <description>An educational website for accountants and business people.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 06 Aug 2019 09:01:42 +0800</pubDate>
-    <lastBuildDate>Tue, 06 Aug 2019 09:01:42 +0800</lastBuildDate>
+    <pubDate>Mon, 07 Oct 2019 20:15:35 +0800</pubDate>
+    <lastBuildDate>Mon, 07 Oct 2019 20:15:35 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Basic Generally Accepted Accounting Principles (GAAP)</title>
+        <description>&lt;h2 id=&quot;1&quot;&gt;&lt;strong&gt;Assumptions&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Accounting assumptions encompass concepts about business as viewed in accounting.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Going Concern – this assumption states that a business will continue to operate for the foreseeable future. Meaning, it is assumed that the business life is continuous and that it will not liquidate unless there is evidence of liquidation.&lt;/li&gt;
+&lt;li&gt;Economic Entity – Economic or business entity assumption states that the business must be separate from its owners, the owner’s transactions and records must not be combined with the business’s transactions and records without regard to the legal status of the business.&lt;/li&gt;
+&lt;li&gt;Time Period – this assumption states that the life of a business must be divided into equal periods. The reason is to set what periods are covered by accounting reports. Reports can be made monthly, quarterly, semi-annually, or annually.&lt;/li&gt;
+&lt;li&gt;Monetary Unit – this assumption states that financial information about an entity shall be measured in terms of money. With money as a measurement basis, investors and creditors can easily understand how their investment changes. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;2&quot;&gt;&lt;strong&gt;Principles&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Accounting principles are the rules in recording business transactions and preparing accounting information. The four principles explain how items are recorded.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cost Principle – cost principle requires that the assets of business be recorded at acquisition price or historical cost at the date of purchase. &lt;/li&gt;
+&lt;li&gt;Realization Principle – this principle guides the recording of revenue. It states that revenues shall be recorded when earned, and not when cash is received. Revenue is earned when the services are provided, or the goods are transferred to the buyer.&lt;/li&gt;
+&lt;li&gt;Matching Principle – this principle states that the expense shall be recognized in the same period as the related revenue. However, some expenses are not directly linked to the realization of revenue and recorded as an expense when incurred.&lt;/li&gt;
+&lt;li&gt;Full Disclosure Principle – full disclosure principle states that all information needed by the users must be reflected in the accounting reports.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;3&quot;&gt;&lt;strong&gt;Constraints&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Constraints are the limitations of accounting. There are reasons why accounting is not accurate and perfect, and these are explained by the following.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cost constraint – this pervasive constraint limits the information provided by accounting because information must be only presented when its benefit exceeds the cost of preparing such information. &lt;/li&gt;
+&lt;li&gt;Materiality – if an item or transaction is immaterial or insignificant, normal accounting procedure may not be applied. This constraint provides for the convenient preparation of reports given the materiality of the item. &lt;/li&gt;
+&lt;li&gt;Industry practices – Some business industry departs from basic accounting standards because of the difference in relevant information from other industry.&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Thu, 15 Aug 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/gaap/</link>
+        <guid isPermaLink="true">http://localhost:4000/gaap/</guid>
+        
+        
+        <category>business</category>
+        
+        <category>accounting</category>
+        
+      </item>
     
       <item>
         <title>Accounting Overview</title>
@@ -107,8 +145,8 @@
 &lt;p&gt;Digital Marketing is but a part of marketing as a whole — but a significant one this days. In order to be bring out the most value in your investment, you should always consider different factors surrounding your business. You could hire the best agency out there but it is still you who gets to decide whether your business will be successful or not.&lt;/p&gt;
 </description>
         <pubDate>Sun, 04 Aug 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/don't-hire-marketing-agencies-9-reasons-Copy/</link>
-        <guid isPermaLink="true">http://localhost:4000/don't-hire-marketing-agencies-9-reasons-Copy/</guid>
+        <link>http://localhost:4000/don't-hire-marketing-agencies-9-reasons/</link>
+        <guid isPermaLink="true">http://localhost:4000/don't-hire-marketing-agencies-9-reasons/</guid>
         
         
         <category>business</category>
