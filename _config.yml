@@ -3,7 +3,7 @@ name: "Akawnting"
 title: "Akawnting"
 description: "An educational website for accountants and business people."
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+favicon: 'assets/images/favicon.png'
 baseurl: ''
 google_analytics: 'UA-141716897-1'
 disqus: 'akawnting'
