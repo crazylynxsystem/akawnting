@@ -4,7 +4,7 @@ title: "Akawnting"
 description: "An educational website for accountants and business people."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: 'blog'
+baseurl: /blog
 google_analytics: 'UA-141716897-1'
 disqus: 'akawnting'
 mailchimp-list: 'https://gmail.us3.list-manage.com/subscribe/post?u=44fa985ed01f97647e92edccf&amp;id=70a1215ec9'
